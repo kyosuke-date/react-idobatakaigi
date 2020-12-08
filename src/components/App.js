@@ -15,3 +15,6 @@ export default () => {
   }
 
 };
+
+
+// git push origin HEAD && git checkout main && git merge - && git push origin HEAD
